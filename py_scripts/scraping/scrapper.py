@@ -39,7 +39,7 @@ def scrape():
             total[loc]["total-deaths"] += parsed_data["deaths"]
             data[day][loc]["total-cases"] = total[loc]["total-cases"]
             data[day][loc]["total-deaths"] = total[loc]["total-deaths"]
-    with open("data.json", "w") as f:
+    with open("case-data.json", "w") as f:
         json.dump(data, f, ensure_ascii=True, indent=4)
 
 
