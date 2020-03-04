@@ -1,0 +1,2702 @@
+{
+    "21 January": {
+        "Beijing": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        }
+    },
+    "22 January": {
+        "Shanghai": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 12,
+            "delta-deaths": 0,
+            "total-cases": 20,
+            "total-deaths": 0
+        },
+        "China": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Macau": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        }
+    },
+    "23 January": {
+        "France": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Nepal": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 10,
+            "delta-deaths": 0,
+            "total-cases": 39,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "China": {
+            "delta-cases": 105,
+            "delta-deaths": 0,
+            "total-cases": 106,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        }
+    },
+    "24 January": {
+        "Shanghai": {
+            "delta-cases": 19,
+            "delta-deaths": 1,
+            "total-cases": 29,
+            "total-deaths": 1
+        },
+        "Malaysia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 15,
+            "delta-deaths": 0,
+            "total-cases": 64,
+            "total-deaths": 0
+        },
+        "China": {
+            "delta-cases": 29,
+            "delta-deaths": 2,
+            "total-cases": 165,
+            "total-deaths": 2
+        },
+        "Australia": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        }
+    },
+    "25 January": {
+        "Arizona": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "California": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 9,
+            "total-deaths": 0
+        },
+        "Macau": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 17,
+            "delta-deaths": 0,
+            "total-cases": 100,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "United States": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        }
+    },
+    "26 January": {
+        "Germany": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Sri Lanka": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 11,
+            "delta-deaths": 1,
+            "total-cases": 118,
+            "total-deaths": 1
+        },
+        "Macau": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 7,
+            "total-deaths": 0
+        },
+        "Cambodia": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Canada": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Australia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 7,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Shanghai": {
+            "delta-cases": 13,
+            "delta-deaths": 0,
+            "total-cases": 42,
+            "total-deaths": 1
+        }
+    },
+    "27 January": {
+        "Canada": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 8,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 7,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "France": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 11,
+            "delta-deaths": 0,
+            "total-cases": 129,
+            "total-deaths": 1
+        },
+        "Thailand": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 12,
+            "total-deaths": 0
+        },
+        "Shanghai": {
+            "delta-cases": 13,
+            "delta-deaths": 0,
+            "total-cases": 55,
+            "total-deaths": 1
+        }
+    },
+    "28 January": {
+        "France": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Finland": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 11,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 20,
+            "delta-deaths": 0,
+            "total-cases": 158,
+            "total-deaths": 1
+        },
+        "Japan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 8,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 9,
+            "total-deaths": 0
+        },
+        "Australia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 10,
+            "total-deaths": 0
+        },
+        "Shanghai": {
+            "delta-cases": 30,
+            "delta-deaths": 0,
+            "total-cases": 101,
+            "total-deaths": 1
+        },
+        "United Arab Emirates": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        }
+    },
+    "29 January": {
+        "Germany": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Italy": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "France": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "United States": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 13,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 10,
+            "delta-deaths": 0,
+            "total-cases": 175,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 12,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 20,
+            "total-deaths": 0
+        },
+        "Australia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 13,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 9,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "India": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Philippines": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Shanghai": {
+            "delta-cases": 16,
+            "delta-deaths": 0,
+            "total-cases": 128,
+            "total-deaths": 1
+        },
+        "Malaysia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        }
+    },
+    "30 January": {
+        "Spain": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 10,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 14,
+            "total-deaths": 0
+        },
+        "Canada": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 21,
+            "total-deaths": 0
+        },
+        "Sweden": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 7,
+            "total-deaths": 0
+        },
+        "Russia": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 15,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 17,
+            "total-deaths": 0
+        },
+        "England": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 18,
+            "delta-deaths": 0,
+            "total-cases": 200,
+            "total-deaths": 1
+        },
+        "South Korea": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 14,
+            "total-deaths": 0
+        },
+        "Shanghai": {
+            "delta-cases": 23,
+            "delta-deaths": 0,
+            "total-cases": 158,
+            "total-deaths": 1
+        }
+    },
+    "31 January": {
+        "Shanghai": {
+            "delta-cases": 42,
+            "delta-deaths": 0,
+            "total-cases": 232,
+            "total-deaths": 1
+        },
+        "United Arab Emirates": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 8,
+            "total-deaths": 0
+        },
+        "United States": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 15,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 24,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 17,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 29,
+            "delta-deaths": 0,
+            "total-cases": 241,
+            "total-deaths": 1
+        },
+        "Australia": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 18,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 15,
+            "total-deaths": 0
+        }
+    },
+    "1 February": {
+        "Shanghai": {
+            "delta-cases": 16,
+            "delta-deaths": 0,
+            "total-cases": 259,
+            "total-deaths": 1
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 16,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 10,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 23,
+            "delta-deaths": 0,
+            "total-cases": 272,
+            "total-deaths": 1
+        },
+        "Macau": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 8,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "India": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Philippines": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 18,
+            "total-deaths": 0
+        }
+    },
+    "2 February": {
+        "Shanghai": {
+            "delta-cases": 15,
+            "delta-deaths": 0,
+            "total-cases": 279,
+            "total-deaths": 1
+        },
+        "Germany": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 13,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 24,
+            "delta-deaths": 0,
+            "total-cases": 296,
+            "total-deaths": 1
+        },
+        "India": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        }
+    },
+    "3 February": {
+        "Shanghai": {
+            "delta-cases": 25,
+            "delta-deaths": 0,
+            "total-cases": 318,
+            "total-deaths": 1
+        },
+        "Japan": {
+            "delta-cases": 13,
+            "delta-deaths": 0,
+            "total-cases": 70,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 2,
+            "delta-deaths": 1,
+            "total-cases": 22,
+            "total-deaths": 1
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 11,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 16,
+            "delta-deaths": 0,
+            "total-cases": 312,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 23,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 23,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 9,
+            "total-deaths": 0
+        },
+        "Belgium": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 8,
+            "total-deaths": 0
+        },
+        "Macau": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 11,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 19,
+            "total-deaths": 0
+        }
+    },
+    "4 February": {
+        "Japan": {
+            "delta-cases": 12,
+            "delta-deaths": 0,
+            "total-cases": 103,
+            "total-deaths": 0
+        },
+        "Shanghai": {
+            "delta-cases": 21,
+            "delta-deaths": 0,
+            "total-cases": 350,
+            "total-deaths": 1
+        },
+        "South Korea": {
+            "delta-cases": 7,
+            "delta-deaths": 0,
+            "total-cases": 35,
+            "total-deaths": 0
+        },
+        "United States": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 27,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 10,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 25,
+            "total-deaths": 1
+        },
+        "Beijing": {
+            "delta-cases": 25,
+            "delta-deaths": 0,
+            "total-cases": 337,
+            "total-deaths": 1
+        },
+        "Philippines": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        }
+    },
+    "5 February": {
+        "Shanghai": {
+            "delta-cases": 15,
+            "delta-deaths": 0,
+            "total-cases": 377,
+            "total-deaths": 1
+        },
+        "Italy": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 19,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 30,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 29,
+            "total-deaths": 0
+        },
+        "England": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 14,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 11,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 12,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 21,
+            "delta-deaths": 0,
+            "total-cases": 358,
+            "total-deaths": 1
+        }
+    },
+    "6 February": {
+        "Shanghai": {
+            "delta-cases": 12,
+            "delta-deaths": 0,
+            "total-cases": 393,
+            "total-deaths": 1
+        },
+        "United Arab Emirates": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 33,
+            "total-deaths": 1
+        },
+        "Germany": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 15,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 12,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 32,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 13,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 23,
+            "delta-deaths": 0,
+            "total-cases": 381,
+            "total-deaths": 1
+        },
+        "Japan": {
+            "delta-cases": 41,
+            "delta-deaths": 0,
+            "total-cases": 144,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 36,
+            "total-deaths": 0
+        }
+    },
+    "7 February": {
+        "Shanghai": {
+            "delta-cases": 11,
+            "delta-deaths": 0,
+            "total-cases": 410,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 7,
+            "delta-deaths": 0,
+            "total-cases": 39,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 14,
+            "total-deaths": 0
+        },
+        "France": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 10,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 7,
+            "delta-deaths": 0,
+            "total-cases": 30,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 20,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 17,
+            "delta-deaths": 1,
+            "total-cases": 398,
+            "total-deaths": 2
+        },
+        "Japan": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 147,
+            "total-deaths": 0
+        }
+    },
+    "8 February": {
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 42,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 10,
+            "delta-deaths": 0,
+            "total-cases": 50,
+            "total-deaths": 1
+        },
+        "United Kingdom": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Spain": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 15,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 41,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 7,
+            "delta-deaths": 0,
+            "total-cases": 160,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 21,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 13,
+            "total-deaths": 0
+        },
+        "Shanghai": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 411,
+            "total-deaths": 1
+        },
+        "Beijing": {
+            "delta-cases": 11,
+            "delta-deaths": 0,
+            "total-cases": 409,
+            "total-deaths": 2
+        }
+    },
+    "9 February": {
+        "United Arab Emirates": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 60,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 44,
+            "total-deaths": 0
+        },
+        "United Kingdom": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 65,
+            "delta-deaths": 0,
+            "total-cases": 225,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 16,
+            "total-deaths": 0
+        }
+    },
+    "10 February": {
+        "Japan": {
+            "delta-cases": 41,
+            "delta-deaths": 0,
+            "total-cases": 305,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 31,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 17,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 7,
+            "delta-deaths": 0,
+            "total-cases": 67,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 46,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 14,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 42,
+            "total-deaths": 0
+        }
+    },
+    "11 February": {
+        "United Kingdom": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 68,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 49,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 306,
+            "total-deaths": 0
+        }
+    },
+    "12 February": {
+        "Hong Kong": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 71,
+            "total-deaths": 1
+        },
+        "United States": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 48,
+            "delta-deaths": 0,
+            "total-cases": 364,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 8,
+            "delta-deaths": 0,
+            "total-cases": 57,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 17,
+            "total-deaths": 0
+        },
+        "Vietnam": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 15,
+            "total-deaths": 0
+        }
+    },
+    "13 February": {
+        "Shanghai": {
+            "delta-cases": 8,
+            "delta-deaths": 0,
+            "total-cases": 419,
+            "total-deaths": 1
+        },
+        "Egypt": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 8,
+            "delta-deaths": 0,
+            "total-cases": 395,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 9,
+            "delta-deaths": 0,
+            "total-cases": 66,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 74,
+            "total-deaths": 1
+        }
+    },
+    "14 February": {
+        "France": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 11,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 21,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 71,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 79,
+            "delta-deaths": 0,
+            "total-cases": 638,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 32,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 2,
+            "delta-deaths": 1,
+            "total-cases": 411,
+            "total-deaths": 3
+        }
+    },
+    "15 February": {
+        "Shanghai": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 427,
+            "total-deaths": 1
+        },
+        "United Arab Emirates": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 74,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 1,
+            "total-cases": 22,
+            "total-deaths": 1
+        },
+        "Japan": {
+            "delta-cases": 76,
+            "delta-deaths": 0,
+            "total-cases": 721,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 75,
+            "total-deaths": 1
+        },
+        "Beijing": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 416,
+            "total-deaths": 3
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 43,
+            "total-deaths": 0
+        }
+    },
+    "16 February": {
+        "Shanghai": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 428,
+            "total-deaths": 1
+        },
+        "Taiwan": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 24,
+            "total-deaths": 1
+        },
+        "Japan": {
+            "delta-cases": 102,
+            "delta-deaths": 0,
+            "total-cases": 1111,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 78,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 76,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 33,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 44,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 417,
+            "total-deaths": 3
+        }
+    },
+    "17 February": {
+        "Hong Kong": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 81,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 80,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 88,
+            "delta-deaths": 0,
+            "total-cases": 1199,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 423,
+            "total-deaths": 3
+        },
+        "Shanghai": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 429,
+            "total-deaths": 1
+        },
+        "South Korea": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 45,
+            "total-deaths": 0
+        }
+    },
+    "18 February": {
+        "South Korea": {
+            "delta-cases": 27,
+            "delta-deaths": 0,
+            "total-cases": 107,
+            "total-deaths": 0
+        },
+        "Iran": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 2,
+            "delta-deaths": 1,
+            "total-cases": 88,
+            "total-deaths": 2
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 25,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 83,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 80,
+            "delta-deaths": 0,
+            "total-cases": 1280,
+            "total-deaths": 0
+        },
+        "Beijing": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 429,
+            "total-deaths": 3
+        }
+    },
+    "19 February": {
+        "Australia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 20,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 92,
+            "total-deaths": 2
+        },
+        "Italy": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 52,
+            "delta-deaths": 1,
+            "total-cases": 232,
+            "total-deaths": 1
+        },
+        "Singapore": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 84,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 13,
+            "delta-deaths": 2,
+            "total-cases": 1321,
+            "total-deaths": 2
+        },
+        "Iran": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Shanghai": {
+            "delta-cases": 0,
+            "delta-deaths": 1,
+            "total-cases": 430,
+            "total-deaths": 2
+        },
+        "Beijing": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 431,
+            "total-deaths": 3
+        }
+    },
+    "20 February": {
+        "South Korea": {
+            "delta-cases": 95,
+            "delta-deaths": 1,
+            "total-cases": 384,
+            "total-deaths": 2
+        },
+        "Italy": {
+            "delta-cases": 16,
+            "delta-deaths": 0,
+            "total-cases": 46,
+            "total-deaths": 0
+        },
+        "United States": {
+            "delta-cases": 18,
+            "delta-deaths": 0,
+            "total-cases": 23,
+            "total-deaths": 0
+        },
+        "United Arab Emirates": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 7,
+            "total-deaths": 0
+        },
+        "Australia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 22,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 85,
+            "total-deaths": 0
+        },
+        "Lebanon": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Israel": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Iran": {
+            "delta-cases": 11,
+            "delta-deaths": 2,
+            "total-cases": 14,
+            "total-deaths": 2
+        },
+        "Taiwan": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 27,
+            "total-deaths": 1
+        },
+        "Beijing": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 432,
+            "total-deaths": 3
+        }
+    },
+    "21 February": {
+        "South Korea": {
+            "delta-cases": 232,
+            "delta-deaths": 0,
+            "total-cases": 709,
+            "total-deaths": 2
+        },
+        "Italy": {
+            "delta-cases": 57,
+            "delta-deaths": 1,
+            "total-cases": 222,
+            "total-deaths": 1
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 93,
+            "total-deaths": 2
+        },
+        "United Arab Emirates": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 9,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 88,
+            "total-deaths": 0
+        },
+        "Australia": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 26,
+            "total-deaths": 0
+        },
+        "Iran": {
+            "delta-cases": 9,
+            "delta-deaths": 1,
+            "total-cases": 23,
+            "total-deaths": 3
+        }
+    },
+    "22 February": {
+        "Israel": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Italy": {
+            "delta-cases": 72,
+            "delta-deaths": 1,
+            "total-cases": 377,
+            "total-deaths": 2
+        },
+        "United Kingdom": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 10,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 56,
+            "delta-deaths": 1,
+            "total-cases": 1434,
+            "total-deaths": 3
+        },
+        "South Korea": {
+            "delta-cases": 162,
+            "delta-deaths": 4,
+            "total-cases": 1051,
+            "total-deaths": 6
+        },
+        "Iran": {
+            "delta-cases": 12,
+            "delta-deaths": 3,
+            "total-cases": 35,
+            "total-deaths": 6
+        },
+        "Hong Kong": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 97,
+            "total-deaths": 2
+        },
+        "Taiwan": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 29,
+            "total-deaths": 1
+        }
+    },
+    "24 February": {
+        "Spain": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Bahrain": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Kuwait": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Italy": {
+            "delta-cases": 72,
+            "delta-deaths": 4,
+            "total-cases": 609,
+            "total-deaths": 6
+        },
+        "Iran": {
+            "delta-cases": 14,
+            "delta-deaths": 4,
+            "total-cases": 63,
+            "total-deaths": 10
+        },
+        "United States": {
+            "delta-cases": 18,
+            "delta-deaths": 0,
+            "total-cases": 41,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 12,
+            "delta-deaths": 0,
+            "total-cases": 1446,
+            "total-deaths": 3
+        },
+        "Oman": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 7,
+            "delta-deaths": 0,
+            "total-cases": 104,
+            "total-deaths": 2
+        },
+        "Singapore": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 89,
+            "total-deaths": 0
+        },
+        "Iraq": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 31,
+            "total-deaths": 1
+        },
+        "South Korea": {
+            "delta-cases": 229,
+            "delta-deaths": 2,
+            "total-cases": 1348,
+            "total-deaths": 8
+        },
+        "Afghanistan": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        }
+    },
+    "25 February": {
+        "Japan": {
+            "delta-cases": 11,
+            "delta-deaths": 1,
+            "total-cases": 1490,
+            "total-deaths": 4
+        },
+        "Italy": {
+            "delta-cases": 91,
+            "delta-deaths": 4,
+            "total-cases": 904,
+            "total-deaths": 10
+        },
+        "Spain": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 22,
+            "total-deaths": 0
+        },
+        "Kuwait": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 15,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 20,
+            "total-deaths": 0
+        },
+        "Algeria": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "France": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 13,
+            "total-deaths": 0
+        },
+        "United States": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 45,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 90,
+            "total-deaths": 0
+        },
+        "Bahrain": {
+            "delta-cases": 21,
+            "delta-deaths": 0,
+            "total-cases": 44,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 108,
+            "total-deaths": 2
+        },
+        "Oman": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Switzerland": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Austria": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Croatia": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Iran": {
+            "delta-cases": 32,
+            "delta-deaths": 2,
+            "total-cases": 129,
+            "total-deaths": 12
+        },
+        "Iraq": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 141,
+            "delta-deaths": 3,
+            "total-cases": 1651,
+            "total-deaths": 11
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 32,
+            "total-deaths": 1
+        },
+        "Thailand": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 35,
+            "total-deaths": 0
+        }
+    },
+    "26 February": {
+        "Japan": {
+            "delta-cases": 17,
+            "delta-deaths": 0,
+            "total-cases": 1507,
+            "total-deaths": 4
+        },
+        "California": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 7,
+            "delta-deaths": 0,
+            "total-cases": 27,
+            "total-deaths": 0
+        },
+        "Italy": {
+            "delta-cases": 129,
+            "delta-deaths": 1,
+            "total-cases": 1265,
+            "total-deaths": 11
+        },
+        "Romania": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Bahrain": {
+            "delta-cases": 10,
+            "delta-deaths": 0,
+            "total-cases": 61,
+            "total-deaths": 0
+        },
+        "Norway": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "United States": {
+            "delta-cases": 17,
+            "delta-deaths": 0,
+            "total-cases": 65,
+            "total-deaths": 0
+        },
+        "Croatia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "France": {
+            "delta-cases": 3,
+            "delta-deaths": 1,
+            "total-cases": 17,
+            "total-deaths": 1
+        },
+        "Georgia": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Sweden": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Pakistan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Lebanon": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Kuwait": {
+            "delta-cases": 15,
+            "delta-deaths": 0,
+            "total-cases": 53,
+            "total-deaths": 0
+        },
+        "North Macedonia": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Finland": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Spain": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 25,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 92,
+            "total-deaths": 0
+        },
+        "Greece": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Brazil": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 112,
+            "total-deaths": 2
+        },
+        "Australia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 27,
+            "total-deaths": 0
+        },
+        "Iran": {
+            "delta-cases": 40,
+            "delta-deaths": 4,
+            "total-cases": 169,
+            "total-deaths": 16
+        },
+        "South Korea": {
+            "delta-cases": 283,
+            "delta-deaths": 1,
+            "total-cases": 2163,
+            "total-deaths": 12
+        },
+        "Taiwan": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 33,
+            "total-deaths": 1
+        },
+        "Thailand": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 38,
+            "total-deaths": 0
+        }
+    },
+    "27 February": {
+        "Spain": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 31,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 7,
+            "delta-deaths": 0,
+            "total-cases": 1514,
+            "total-deaths": 4
+        },
+        "Germany": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 30,
+            "total-deaths": 0
+        },
+        "San Marino": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Netherlands": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Switzerland": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 16,
+            "total-deaths": 0
+        },
+        "Norway": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "United Kingdom": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 11,
+            "total-deaths": 0
+        },
+        "France": {
+            "delta-cases": 20,
+            "delta-deaths": 0,
+            "total-cases": 37,
+            "total-deaths": 1
+        },
+        "Sweden": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 7,
+            "total-deaths": 0
+        },
+        "Italy": {
+            "delta-cases": 197,
+            "delta-deaths": 5,
+            "total-cases": 1586,
+            "total-deaths": 16
+        },
+        "Oman": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "United Arab Emirates": {
+            "delta-cases": 6,
+            "delta-deaths": 0,
+            "total-cases": 15,
+            "total-deaths": 0
+        },
+        "Lebanon": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 95,
+            "total-deaths": 0
+        },
+        "Greece": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Iran": {
+            "delta-cases": 99,
+            "delta-deaths": 7,
+            "total-cases": 368,
+            "total-deaths": 23
+        },
+        "Austria": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 115,
+            "total-deaths": 2
+        },
+        "South Korea": {
+            "delta-cases": 504,
+            "delta-deaths": 1,
+            "total-cases": 3008,
+            "total-deaths": 13
+        },
+        "Kuwait": {
+            "delta-cases": 17,
+            "delta-deaths": 0,
+            "total-cases": 70,
+            "total-deaths": 0
+        },
+        "Estonia": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Iraq": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Denmark": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        }
+    },
+    "28 February": {
+        "Monaco": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Spain": {
+            "delta-cases": 11,
+            "delta-deaths": 0,
+            "total-cases": 58,
+            "total-deaths": 0
+        },
+        "Israel": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 8,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 4,
+            "delta-deaths": 3,
+            "total-cases": 1536,
+            "total-deaths": 7
+        },
+        "Italy": {
+            "delta-cases": 230,
+            "delta-deaths": 4,
+            "total-cases": 1817,
+            "total-deaths": 20
+        },
+        "Norway": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Germany": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 31,
+            "total-deaths": 0
+        },
+        "Sweden": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 11,
+            "total-deaths": 0
+        },
+        "United States": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 67,
+            "total-deaths": 0
+        },
+        "France": {
+            "delta-cases": 19,
+            "delta-deaths": 0,
+            "total-cases": 89,
+            "total-deaths": 1
+        },
+        "Iraq": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Lebanon": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Denmark": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Finland": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Austria": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Mexico": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Bahrain": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 68,
+            "total-deaths": 0
+        },
+        "Iceland": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 97,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 116,
+            "total-deaths": 2
+        },
+        "Romania": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Georgia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 568,
+            "delta-deaths": 3,
+            "total-cases": 3885,
+            "total-deaths": 16
+        },
+        "Azerbaijan": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Iran": {
+            "delta-cases": 135,
+            "delta-deaths": 8,
+            "total-cases": 503,
+            "total-deaths": 31
+        },
+        "Netherlands": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "United Kingdom": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 12,
+            "total-deaths": 0
+        },
+        "Greece": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 3,
+            "total-deaths": 0
+        },
+        "Kuwait": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 72,
+            "total-deaths": 0
+        },
+        "Croatia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Malaysia": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 23,
+            "total-deaths": 0
+        },
+        "Taiwan": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 35,
+            "total-deaths": 1
+        },
+        "Belarus": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "New Zealand": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Western Australia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Thailand": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 39,
+            "total-deaths": 0
+        },
+        "Lithuania": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Canada": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "Nigeria": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "China": {
+            "delta-cases": 283,
+            "delta-deaths": 44,
+            "total-cases": 448,
+            "total-deaths": 46
+        }
+    },
+    "29 February": {
+        "China": {
+            "delta-cases": 536,
+            "delta-deaths": 34,
+            "total-cases": 984,
+            "total-deaths": 80
+        },
+        "Brazil": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 1,
+            "total-deaths": 0
+        },
+        "Ireland": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Luxembourg": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Greece": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Mexico": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 5,
+            "total-deaths": 0
+        },
+        "France": {
+            "delta-cases": 43,
+            "delta-deaths": 0,
+            "total-cases": 159,
+            "total-deaths": 1
+        },
+        "Azerbaijan": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Italy": {
+            "delta-cases": 231,
+            "delta-deaths": 8,
+            "total-cases": 2048,
+            "total-deaths": 28
+        },
+        "Switzerland": {
+            "delta-cases": 10,
+            "delta-deaths": 0,
+            "total-cases": 26,
+            "total-deaths": 0
+        },
+        "Norway": {
+            "delta-cases": 9,
+            "delta-deaths": 0,
+            "total-cases": 22,
+            "total-deaths": 0
+        },
+        "Iraq": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 11,
+            "total-deaths": 0
+        },
+        "Netherlands": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 7,
+            "total-deaths": 0
+        },
+        "Ecuador": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Bahrain": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 71,
+            "total-deaths": 0
+        },
+        "Hong Kong": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 117,
+            "total-deaths": 2
+        },
+        "Croatia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Lebanon": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 6,
+            "total-deaths": 0
+        },
+        "Pakistan": {
+            "delta-cases": 2,
+            "delta-deaths": 0,
+            "total-cases": 4,
+            "total-deaths": 0
+        },
+        "Singapore": {
+            "delta-cases": 4,
+            "delta-deaths": 0,
+            "total-cases": 101,
+            "total-deaths": 0
+        },
+        "Qatar": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 0,
+            "total-deaths": 0
+        },
+        "Georgia": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Sweden": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 12,
+            "total-deaths": 0
+        },
+        "Denmark": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 2,
+            "total-deaths": 0
+        },
+        "Austria": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 8,
+            "total-deaths": 0
+        },
+        "Iran": {
+            "delta-cases": 196,
+            "delta-deaths": 9,
+            "total-cases": 699,
+            "total-deaths": 40
+        },
+        "Spain": {
+            "delta-cases": 8,
+            "delta-deaths": 0,
+            "total-cases": 66,
+            "total-deaths": 0
+        },
+        "South Korea": {
+            "delta-cases": 812,
+            "delta-deaths": 1,
+            "total-cases": 5134,
+            "total-deaths": 17
+        },
+        "Taiwan": {
+            "delta-cases": 5,
+            "delta-deaths": 0,
+            "total-cases": 40,
+            "total-deaths": 1
+        },
+        "Thailand": {
+            "delta-cases": 1,
+            "delta-deaths": 0,
+            "total-cases": 40,
+            "total-deaths": 0
+        },
+        "Japan": {
+            "delta-cases": 3,
+            "delta-deaths": 0,
+            "total-cases": 1542,
+            "total-deaths": 7
+        },
+        "United States": {
+            "delta-cases": 0,
+            "delta-deaths": 0,
+            "total-cases": 67,
+            "total-deaths": 0
+        }
+    }
+}
