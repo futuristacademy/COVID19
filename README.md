@@ -1,8 +1,47 @@
 # **Modeling the Spread & Impact of COVID-19**
 
+## COVID-19 Objective 
+enable others to do something against COVID-19 which means the only guideline is to build tools and applications that enable others to fight against the Coronavirus.
+
+A good example would be the tool [Sudharshan Ashok](https://www.linkedin.com/in/sudharshanashok/) built called [pyCOVID](https://github.com/sudharshan-ashok/pycovid) a Python package to pull CASE data from the John Hopkins dataset. This Python package acts as an enabler to others on developing their projects. 
+
+
+## Looking at Participating?
+### Getting Started
+* Join the Discord Group so we can communicate
+** Introduce yourself to the community, and let others know where you think you could help out.
+* Get access to COVID19 Repository (send email to jon.herke@tigergraph.com)
+
+#### As a **researcher** identify and document,
+* Reliable data sources
+* Supporting publications and research
+* Use Cases
+* Models
+
+> Add these to README.md or build more .markdown documents on COVID-19 Repository
+
+#### As a **developer** identify, document and build,
+* ETL data pipelines (ex. Kafka, Python micro service)
+* Scripts or tools (ex. pyCOVID)
+* Dashboards (ex. Qlick, Vizlib)
+* Applications (ex. Flutter, React)
+* Graph Queries (GSQL)
+
+> Contribute code directly to COVID-19 Repository or add component to COVID-19/Awesome.md list 
+
+### Why it’s important to load data into graph
+Short read on “[Why it’s important to connect data](http://coronavirus-a-serious-need-for-analyzing-connections/)” → We choose to use a graph database because we can interconnect all the data and make it available to the public via REST endpoints. 
+
+Getting Started with TigerGraph, a look at education materials
+https://www.tigergraph.com/certification-graph-fundamentals/
+https://www.tigergraph.com/certification-gsql-101/
+
+If you have questions reachout to [jon.herke@tigergraph.com](jon.herke@tigergraph.com) for more information.
+
 <sub>This Database Initiative Community Chat → [https://discord.gg/KBerGfE](https://discord.gg/KBerGfE)</sub>
 
 <sub>Largest COVID-19 Community Chat → [https://discord.gg/Bphw4dF](https://discord.gg/Bphw4dF) </sub>
+
 
 The threat of COVID-19 from spreading and affecting those around us, especially our loved ones that are over the age of 60+ with the exponential mortality rate of COVID 19 rising to 15% in those around the age of 80.
 
