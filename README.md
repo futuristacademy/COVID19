@@ -1,16 +1,26 @@
 # **Modeling the Spread & Impact of COVID-19**
+The threat of COVID-19 from spreading and affecting those around us, especially our loved ones that are over the age of 60+ with the exponential mortality rate of COVID 19 rising to 15% in those around the age of 80.
+
+![Air traffic flow 2018](https://preview.redd.it/wevw1wq5gwc31.jpg?width=960&crop=smart&auto=webp&s=870f0423f68d5331f8717eb9e9bc5257b0428e67)
+
+The biggest impact is not only the impact on the health around us, but the stability of the global economy itself.
+
+**Proposal:**
+Build the world's richest inter-connected data set that allows the world's smartest researchers to build virus spread models, economic impact models, reporting dashboards, drug vaccine effectiveness models to supply-chain models.
+
+Additional Information Presented by Professor Victor Lee
+[Coronavirus-a-serious-need-for-analyzing-connections](https://medium.com/@victor_67825/coronavirus-a-serious-need-for-analyzing-connections-24a4e3de9362)
 
 ## COVID-19 Objective 
-enable others to do something against COVID-19 which means the only guideline is to build tools and applications that enable others to fight against the Coronavirus.
+Enable the Global Community to do something against [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/about/share-facts.html) which means the only guideline for this Open Source Community Collaboration Project is to build tools and applications that enable others to fight against the Coronavirus.
 
 A good example would be the tool [Sudharshan Ashok](https://www.linkedin.com/in/sudharshanashok/) built called [pyCOVID](https://github.com/sudharshan-ashok/pycovid) a Python package to pull CASE data from the John Hopkins dataset. This Python package acts as an enabler to others on developing their projects. 
 
-
 ## Looking at Participating?
 ### Getting Started
-* Join the Discord Group so we can communicate
+* Join the [Discord Group](https://discord.gg/KBerGfE) so we can communicate
 ** Introduce yourself to the community, and let others know where you think you could help out.
-* Get access to COVID19 Repository (send email to jon.herke@tigergraph.com)
+* Get access to [COVID19 Repository](https://github.com/futuristacademy/COVID19) (send email to jon.herke@tigergraph.com)
 
 #### As a **researcher** identify and document,
 * Reliable data sources
@@ -38,24 +48,12 @@ https://www.tigergraph.com/certification-gsql-101/
 
 If you have questions reachout to [jon.herke@tigergraph.com](jon.herke@tigergraph.com) for more information.
 
-<sub>This Database Initiative Community Chat → [https://discord.gg/KBerGfE](https://discord.gg/KBerGfE)</sub>
 
-<sub>Largest COVID-19 Community Chat → [https://discord.gg/Bphw4dF](https://discord.gg/Bphw4dF) </sub>
+**Initiative Community Chat** → [https://discord.gg/KBerGfE](https://discord.gg/KBerGfE)</sub>
+
+**Largest COVID-19 Community Chat** → [https://discord.gg/Bphw4dF](https://discord.gg/Bphw4dF) </sub>
 
 
-The threat of COVID-19 from spreading and affecting those around us, especially our loved ones that are over the age of 60+ with the exponential mortality rate of COVID 19 rising to 15% in those around the age of 80.
-
-![Air traffic flow 2018](https://preview.redd.it/wevw1wq5gwc31.jpg?width=960&crop=smart&auto=webp&s=870f0423f68d5331f8717eb9e9bc5257b0428e67)
-
-The biggest impact is not only the impact on the health around us, but the stability of the global economy itself.
-
-**Proposal:**
-Build the world's richest inter-connected data set that allows the world's smartest researchers to build virus spread models, economic impact models, reporting dashboards, drug vaccine effectiveness models to supply-chain models.
-
-  
-
-Additional Information Presented by Professor Victor Lee
-[Coronavirus-a-serious-need-for-analyzing-connections](https://medium.com/@victor_67825/coronavirus-a-serious-need-for-analyzing-connections-24a4e3de9362)
 
 **[Click Here to See Where You Can Help!](https://docs.google.com/document/d/1839IzLW6ao_WUKn9vYu6v6NRpYHPv3Qe7oH8vp3Ec2Y/edit#heading=h.wyg3eofcehe2)**
 
