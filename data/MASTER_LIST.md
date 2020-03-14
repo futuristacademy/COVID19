@@ -9,3 +9,5 @@
 * [https://drive.google.com/file/d/1y3lf7-fiEW_jtoNg_V3rTLn-Ub8yXRcY/view](https://drive.google.com/file/d/1y3lf7-fiEW_jtoNg_V3rTLn-Ub8yXRcY/view)
 * [Temporal Data][https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 * [https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+
+http://covidly.com/map
