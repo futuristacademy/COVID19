@@ -1,12 +1,12 @@
 **Genomics Drug Data**
-ZINC Database: https://zinc.docking.org/
-Formatted ZINC Database: https://github.com/molecularsets/moses
-DrugBank: https://drugbank.ca
-COVID-2019 main protease: https://www.wwpdb.org/pdb?id=pdb_00006lu7
-ChemBL: https://www.ebi.ac.uk/chembl/
-GenBank COVID-19: https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
-GenBank COVID-19 Meta: https://github.com/nextstrain/ncov/blob/master/data/metadata.tsv
-Drug Connectivity Map (CMap): https://clue.io/cmap 
+* ZINC Database: https://zinc.docking.org/
+* Formatted ZINC Database: https://github.com/molecularsets/moses
+* DrugBank: https://drugbank.ca
+* COVID-2019 main protease: https://www.wwpdb.org/pdb?id=pdb_00006lu7
+* ChemBL: https://www.ebi.ac.uk/chembl/
+* GenBank COVID-19: https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
+* GenBank COVID-19 Meta: https://github.com/nextstrain/ncov/blob/master/data/metadata.tsv
+* Drug Connectivity Map (CMap): https://clue.io/cmap 
 
 **Media Sources COVID-19**
 * [https://www.moh.gov.sg/covid-19/](https://www.moh.gov.sg/covid-19/)
