@@ -6,7 +6,8 @@
 * ChemBL: https://www.ebi.ac.uk/chembl/
 * GenBank COVID-19: https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 * GenBank COVID-19 Meta: https://github.com/nextstrain/ncov/blob/master/data/metadata.tsv
-* Drug Connectivity Map (CMap): https://clue.io/cmap 
+* Drug Connectivity Map (CMap): https://clue.io/cmap
+* NextStrain: https://github.com/nextstrain/ncov
 
 **Media Sources COVID-19**
 * [https://www.moh.gov.sg/covid-19/](https://www.moh.gov.sg/covid-19/)
@@ -14,7 +15,7 @@
 * [https://2019ncov.nosugartech.com/data.json](https://2019ncov.nosugartech.com/data.json)
 * [https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
 * [https://drive.google.com/file/d/1y3lf7-fiEW_jtoNg_V3rTLn-Ub8yXRcY/view](https://drive.google.com/file/d/1y3lf7-fiEW_jtoNg_V3rTLn-Ub8yXRcY/view)
-* [Temporal Data][https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
+* https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 * [https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 
 **Dashboard Visualizations**
@@ -22,7 +23,9 @@
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
 **Communities**
-* [COVID19 Graph Database Community](Join the TigerGraph Community Chat)
+* [COVID19 Graph Database Community](https://discord.gg/KBerGfE)
+* [COVID19 General Community Chat](https://discord.gg/Bphw4dF)
+
 
 **Visualizations**
 * https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
