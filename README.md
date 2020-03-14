@@ -62,13 +62,11 @@ If you have questions reachout to [jon.herke@tigergraph.com](jon.herke@tigergrap
 ### Transportation Data
 
 Viruses spread through means of transportation. The biggest transportation networks are airlines. If we pull the last year of all flight data from every plane to every airport the flew in and out of. Along with the path of virus spread we may begin to identify where the
-
   
 
 This data can be extracted from OpenSky API.
 
   
-
 Open Sky Documentation
 
 [https://opensky-network.org/apidoc/rest.html](https://opensky-network.org/apidoc/rest.html)
@@ -77,7 +75,6 @@ Open Sky Documentation
 The missing data from open sky is the ICAO which are International Airport Codes
 
 [https://docs.google.com/spreadsheets/d/1CGENTf6vbRkXeXhEuPRq6uIjpNRH_u-0ql5h90qzCoA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CGENTf6vbRkXeXhEuPRq6uIjpNRH_u-0ql5h90qzCoA/edit?usp=sharing)
-
   
 
 Sample Data - Pulled from Open Sky [https://colab.research.google.com/drive/16NCKbgVTZIrBj-CasNI7ZycpBZdghJqp#scrollTo=b-flVhevP2IJ](https://colab.research.google.com/drive/16NCKbgVTZIrBj-CasNI7ZycpBZdghJqp#scrollTo=b-flVhevP2IJ)
@@ -107,16 +104,20 @@ The most reliable case data is from John Hopkis whom is pulling World Health Org
 Case data includes: Province/State, Country/Region ,Last Update, Confirmed, Deaths, Recovered, Latitude, Longitude
 
 Genomic Drug Effectiveness:
+Description:
+Take a look at current drugs and which ones would be more effective in treating COVID-19. Look at Harmonizome (72 million functional associations between genes and attributes. Use case there have two cases of COVID-19 injected into mice) 
 
-Currently there are 113 submitted ARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences in the GenBank database. [https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
+Collect data, include connective weights, find how different molecules are related based on their total biomarker connectivity.
 
-  
-
-Meta Data on COVID-19 GenBank
-
-[https://github.com/nextstrain/ncov/blob/master/data/metadata.tsv](https://github.com/nextstrain/ncov/blob/master/data/metadata.tsv)
-
-  
+Drug Datasets
+ZINC Database: https://zinc.docking.org/
+Formatted ZINC Database: https://github.com/molecularsets/moses
+DrugBank: https://drugbank.ca
+COVID-2019 main protease: https://www.wwpdb.org/pdb?id=pdb_00006lu7
+ChemBL: https://www.ebi.ac.uk/chembl/
+GenBank COVID-19: https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
+GenBank COVID-19 Meta: https://github.com/nextstrain/ncov/blob/master/data/metadata.tsv
+Drug Connectivity Map (CMap): https://clue.io/cmap 
   
 
 ## Economic Impact:
