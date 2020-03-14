@@ -12,3 +12,16 @@
 
 **Dashboard**
 * http://covidly.com/map
+* https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+**Communities**
+* [COVID19 Graph Database Community](Join the TigerGraph Community Chat)
+
+**Visualizations**
+* https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
+
+**Python Package**
+* https://github.com/sudharshan-ashok/pycovid
+
+**Jupyter Notebook**
+* https://colab.research.google.com/drive/1TLUcYR-CqxTGzw-g5Ap2yzh-b2WZMrrr
