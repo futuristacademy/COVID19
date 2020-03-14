@@ -1,7 +1,14 @@
-**Genomics**
-* [https://www.genenames.org/download/custom/](https://www.genenames.org/download/custom/)
+**Genomics Drug Data**
+ZINC Database: https://zinc.docking.org/
+Formatted ZINC Database: https://github.com/molecularsets/moses
+DrugBank: https://drugbank.ca
+COVID-2019 main protease: https://www.wwpdb.org/pdb?id=pdb_00006lu7
+ChemBL: https://www.ebi.ac.uk/chembl/
+GenBank COVID-19: https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
+GenBank COVID-19 Meta: https://github.com/nextstrain/ncov/blob/master/data/metadata.tsv
+Drug Connectivity Map (CMap): https://clue.io/cmap 
 
-**COVID-19**
+**Media Sources COVID-19**
 * [https://www.moh.gov.sg/covid-19/](https://www.moh.gov.sg/covid-19/)
 * [https://www.cdc.gov/coronavirus/2019-ncov/](https://www.cdc.gov/coronavirus/2019-ncov/)
 * [https://2019ncov.nosugartech.com/data.json](https://2019ncov.nosugartech.com/data.json)
@@ -10,7 +17,7 @@
 * [Temporal Data][https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 * [https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 
-**Dashboard**
+**Dashboard Visualizations**
 * http://covidly.com/map
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
@@ -19,6 +26,7 @@
 
 **Visualizations**
 * https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
+* https://nextstrain.org/ncov
 
 **Python Package**
 * https://github.com/sudharshan-ashok/pycovid
