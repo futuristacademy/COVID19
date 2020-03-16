@@ -21,6 +21,7 @@
 **Dashboard Visualizations**
 * http://covidly.com/map
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+* https://observablehq.com/collection/@observablehq/coronavirus
 
 **Communities**
 * [COVID19 Graph Database Community](https://discord.gg/KBerGfE)
