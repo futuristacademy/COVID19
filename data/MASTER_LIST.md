@@ -9,6 +9,9 @@
 * Drug Connectivity Map (CMap): https://clue.io/data/
 * NextStrain: https://github.com/nextstrain/ncov
 
+**Covid Research Papers**
+* https://pages.semanticscholar.org/coronavirus-research
+
 **Media Sources COVID-19**
 * [https://www.moh.gov.sg/covid-19/](https://www.moh.gov.sg/covid-19/)
 * [https://www.cdc.gov/coronavirus/2019-ncov/](https://www.cdc.gov/coronavirus/2019-ncov/)
