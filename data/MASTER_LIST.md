@@ -12,6 +12,9 @@
 **Covid Research Papers**
 * https://pages.semanticscholar.org/coronavirus-research
 
+**Press Briefing**
+* https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/press-briefings
+
 **Media Sources COVID-19**
 * [https://www.moh.gov.sg/covid-19/](https://www.moh.gov.sg/covid-19/)
 * [https://www.cdc.gov/coronavirus/2019-ncov/](https://www.cdc.gov/coronavirus/2019-ncov/)
