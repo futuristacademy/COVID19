@@ -37,6 +37,12 @@
 **Data Modeling**
 * https://alhill.shinyapps.io/COVID19seir/
 
+**Open World Data**
+* https://api.openaq.org/v1/measurements?coordinates=30.549,114.3&radius=20000&date_from=2020-01-09&date_to=2020-01-30&parameter=no2&limit=10000
+
+//thought was to use the air quality score and identify patterns between lockdown efficiencies, emissions, and rtae of COVID-19 spread
+
+
 **Visualizations**
 * https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
 * https://nextstrain.org/ncov
