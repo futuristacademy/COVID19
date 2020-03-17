@@ -6,7 +6,7 @@
 * ChemBL: https://www.ebi.ac.uk/chembl/
 * GenBank COVID-19: https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 * GenBank COVID-19 Meta: https://github.com/nextstrain/ncov/blob/master/data/metadata.tsv
-* Drug Connectivity Map (CMap): https://clue.io/cmap
+* Drug Connectivity Map (CMap): https://clue.io/data/
 * NextStrain: https://github.com/nextstrain/ncov
 
 **Media Sources COVID-19**
