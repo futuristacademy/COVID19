@@ -9,6 +9,11 @@
 * Drug Connectivity Map (CMap): https://clue.io/data/
 * NextStrain: https://github.com/nextstrain/ncov
 
+**COVID Statistics**
+* https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19
+* https://datarepository.wolframcloud.com/resources/Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus
+*
+
 **Covid Research Papers**
 * https://pages.semanticscholar.org/coronavirus-research
 
