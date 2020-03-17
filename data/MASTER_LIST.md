@@ -31,6 +31,8 @@
 * [COVID19 Graph Database Community](https://discord.gg/KBerGfE)
 * [COVID19 General Community Chat](https://discord.gg/Bphw4dF)
 
+**Data Modeling**
+* https://alhill.shinyapps.io/COVID19seir/
 
 **Visualizations**
 * https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
