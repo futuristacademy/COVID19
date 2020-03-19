@@ -12,7 +12,9 @@
 **COVID Statistics**
 * https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19
 * https://datarepository.wolframcloud.com/resources/Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus
-*
+
+**COVID Xrays**
+* https://github.com/ieee8023/covid-chestxray-dataset
 
 **Covid Research Papers**
 * https://pages.semanticscholar.org/coronavirus-research
