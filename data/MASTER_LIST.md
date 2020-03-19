@@ -40,6 +40,7 @@
 **Communities**
 * [COVID19 Graph Database Community](https://discord.gg/KBerGfE)
 * [COVID19 General Community Chat](https://discord.gg/Bphw4dF)
+* [Hack Corona](https://join.slack.com/t/hackcorona/shared_invite/zt-ctrpgvd0-9sDqpPNgG~K33t0Ue1AOTQ)
 
 **Data Modeling**
 * https://alhill.shinyapps.io/COVID19seir/
