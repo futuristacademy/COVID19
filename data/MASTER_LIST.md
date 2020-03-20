@@ -52,11 +52,14 @@
 
 
 **Visualizations**
+* [Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visulizations
 * https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
 * https://nextstrain.org/ncov
 
 **Python Package**
-* https://github.com/sudharshan-ashok/pycovid
+* [CV-19](https://github.com/closedloop-ai/cv19index) an opensource python package “Vulnerability Index” 
+* [pyCovid](https://github.com/sudharshan-ashok/pycovid) an opensource python package to grab case data
+
 
 **Jupyter Notebook**
-* https://colab.research.google.com/drive/1TLUcYR-CqxTGzw-g5Ap2yzh-b2WZMrrr
+* [pyCovid Project](https://colab.research.google.com/drive/1TLUcYR-CqxTGzw-g5Ap2yzh-b2WZMrrr) a simple jupyter notebook others can reference, and/or use
